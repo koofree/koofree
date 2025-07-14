@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this is Yongku Lee 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/koofree?label=Follow&style=social)](https://github.com/koofree)
 [![GitHub stars](https://img.shields.io/github/stars/koofree?label=Stars&style=social)](https://github.com/koofree)
